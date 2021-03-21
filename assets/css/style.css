@@ -15,7 +15,7 @@ a{
     text-decoration: none;
 }
 .container{
-    width: 85vw;
+    width: 1140px;
     margin: auto;
 }
 nav .container::after{

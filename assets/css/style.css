@@ -43,6 +43,7 @@ nav .container::after{
 }
 .navigation ul li a{
     padding: 10px;
+    font-family: 'Montserrat', sans-serif;
     font-size: 18px;
     line-height: 38px;
     color: #3b506c;
